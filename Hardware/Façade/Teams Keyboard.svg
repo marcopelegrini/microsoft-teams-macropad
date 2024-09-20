@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 196.82 216.67">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Consolas, Consolas;
+        font-size: 9px;
+        letter-spacing: -.02em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        letter-spacing: -.12em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #ed1c24;
+        stroke-miterlimit: 10;
+        stroke-width: .1px;
+      }
+
+      .cls-2 {
+        font-family: SegoeUI, 'Segoe UI';
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" x=".05" y=".05" width="196.72" height="216.57" rx="16.56" ry="16.56"/>
+  <text class="cls-2" transform="translate(19.89 201.5)"><tspan class="cls-4" x="0" y="0">Microsoft </tspan><tspan class="cls-3" x="51.02" y="0">T</tspan><tspan class="cls-4" x="55.87" y="0">eams</tspan></text>
+  <g>
+    <g>
+      <rect class="cls-5" x="128.74" y="19.89" width="48.19" height="48.19" rx="8.52" ry="8.52"/>
+      <rect class="cls-5" x="74.32" y="19.89" width="48.19" height="48.19" rx="8.52" ry="8.52"/>
+      <rect class="cls-5" x="19.89" y="19.89" width="48.19" height="48.19" rx="8.52" ry="8.52"/>
+    </g>
+    <g>
+      <rect class="cls-5" x="128.74" y="74.32" width="48.19" height="48.19" rx="8.52" ry="8.52"/>
+      <rect class="cls-5" x="74.32" y="74.32" width="48.19" height="48.19" rx="8.52" ry="8.52"/>
+      <rect class="cls-5" x="19.89" y="74.32" width="48.19" height="48.19" rx="8.52" ry="8.52"/>
+    </g>
+    <g>
+      <rect class="cls-5" x="128.74" y="128.74" width="48.19" height="48.19" rx="8.52" ry="8.52"/>
+      <rect class="cls-5" x="74.32" y="128.74" width="48.19" height="48.19" rx="8.52" ry="8.52"/>
+      <rect class="cls-5" x="19.89" y="128.74" width="48.19" height="48.19" rx="8.52" ry="8.52"/>
+    </g>
+  </g>
+  <text class="cls-1" transform="translate(92.09 188.82) rotate(28.45)"><tspan x="0" y="0">&gt;hacked_</tspan></text>
+</svg>
