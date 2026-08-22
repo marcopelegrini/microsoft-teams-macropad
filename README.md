@@ -2,6 +2,8 @@
 
 Microsoft Teams Macropad is a physical device, programmed specifically for Microsoft Teams with dedicated keys for triggering functionalities such as "mute" or "raise hand", as well as reactions to meetings and chats!
 
+Documentation: https://pelegrini.ca/hardware/2024/11/10/marcopad/
+
 These are all the asseets I've used to create the macropad. 
 
 Feel free to fork, modify and suggest changes, as long as you keep everything free and never commercialize it.
